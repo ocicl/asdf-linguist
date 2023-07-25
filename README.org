@@ -1,0 +1,10 @@
+* asdf-linguist
+
+ASDF extensions.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/asdf-linguist.git   |
+| commit  | f15de19  |
+| systems | asdf-linguist |
+|---------+-------------------------------------------|
+
